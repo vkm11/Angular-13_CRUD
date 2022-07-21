@@ -1,0 +1,58 @@
+{
+  "productList": [
+    {
+      "productName": "Apple",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 500,
+      "comment": "This is fresh fruit",
+      "date": "2022-06-19T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 300,
+      "comment": "this is fresh fruit",
+      "date": "2022-06-19T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "Mango",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 1000,
+      "comment": "this is not a fresh fruit.",
+      "date": "2022-06-20T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Orange",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 400,
+      "comment": "this is not a fresh fruit",
+      "date": "2022-06-21T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "Lady Finger",
+      "category": "Vegitables",
+      "freshness": "Refurbished",
+      "price": 100,
+      "comment": "this is fresh vegitable",
+      "date": "2022-06-22T18:30:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "watermelons",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 50,
+      "comment": "this is fresh fruit",
+      "date": "2022-07-18T18:30:00.000Z",
+      "id": 6
+    }
+  ]
+}
