@@ -6,3 +6,8 @@
 
 ### json server run:-
   - json-server --watch db.json
+
+
+
+### Run Project:-(because Watchpack error) using this we can avoid the watch error
+- ng serve --watch --live-reload --poll 2000
